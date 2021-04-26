@@ -1,0 +1,44 @@
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    height: 33.33vh;
+    width: 100vw;
+}
+#orange, #white, #green {
+    height: 100%;
+}
+#orange {
+    background-color: rgb(231, 89, 57);
+}
+
+#white {
+    background-color: white;
+}
+#green {
+    background-color: #206107;
+}
+#orange {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+
+#white {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #576574;
+    font-size: 20px;
+    font-family: 'Sedgwick Ave Display',;
+}
+header{
+    text-align: center;
+    font-size: 50px;
+}
